@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Dallasdee
+- 👋 Hi, I’m @LaphiDee
 - 👀 I’m interested in learning coding.
 - 🌱 I’m currently learning video editing and coding.
 - 💞️ I’m looking to collaborate on building an own website.
